@@ -1,0 +1,5 @@
+tensorflow==2.7.0
+numpy
+pandas
+matplotlib==3.4.3
+scikit-keras==0.1.5
